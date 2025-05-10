@@ -64,5 +64,5 @@ Se realizó un análisis exploratorio utilizando **Pandas Profiling**, lo que pe
 
 - `exploracion.ipynb`: Notebook con la exploración del dataset  
 - `README.md`: Documento con la descripción del proyecto  
-- [Tablero Trello]([https://trello.com/](https://trello.com/invite/b/681fcb93afc7e535e69f08bf/ATTIbb949daf38407468e3153533f0c1938164840CBA/proyecto-integrado-iii)): Organización del proyecto con tareas y fechas
-- [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1PYqwGXcBfor_o1Or_ISQKGFH0Q7CAbGj?usp=sharing))
+- [Tablero Trello](https://trello.com/invite/b/681fcb93afc7e535e69f08bf/ATTIbb949daf38407468e3153533f0c1938164840CBA/proyecto-integrado-iii): Organización del proyecto con tareas y fechas
+- [Google Colab](https://colab.research.google.com/drive/1PYqwGXcBfor_o1Or_ISQKGFH0Q7CAbGj?usp=sharing)
