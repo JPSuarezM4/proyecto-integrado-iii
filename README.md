@@ -38,7 +38,8 @@ Analizar las características que impactan en las ventas de videojuegos a nivel 
 ## 🧪 Herramientas Utilizadas
 
 - Python 3.x  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Google Colab
 - Pandas  
 - Pandas Profiling  
 - Trello (para la planificación del proyecto)  
