@@ -16,9 +16,12 @@ Analizar las características que impactan en las ventas de videojuegos a nivel 
 
 ---
 
-## 💡 Hipótesis
+## 💡 Hipótesis iniciales
 
-> “Los videojuegos con puntuaciones críticas más altas, publicados por grandes distribuidores y disponibles en consolas populares, tienden a tener mayores ventas globales.”
+> “Los videojuegos que reciben mayores calificaciones por parte de críticos tienden a registrar mayores ventas globales.”
+> “Las consolas con mayor presencia en el mercado concentran un volumen más alto de ventas.”
+> “Los videojuegos desarrollados por empresas reconocidas o de trayectoria obtienen un mejor desempeño comercial.”
+> “Algunos géneros, como acción o deportes, presentan ventas significativamente superiores en comparación con otros géneros menos populares”
 
 ---
 
